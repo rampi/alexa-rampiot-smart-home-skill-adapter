@@ -1,0 +1,13 @@
+{
+  "name": "alexa-rampiot-smart-home-skill-adapter",
+  "version": "1.0.0",
+  "description": "Adapter for rampiot things discover and control",
+  "main": "index.js",
+  "author": "Robinson Mesino",
+  "license": "ISC",
+  "dependencies": {
+    "asyncawait": "^1.0.6",
+    "q": "^1.5.1",
+    "request": "^2.83.0"
+  }
+}

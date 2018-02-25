@@ -1,0 +1,7 @@
+{
+    "ALEXA_COMPATIBLE_RAMPIOT_TYPES": [
+        "SMART_DOOR"
+    ],
+    "lwtTokenURL": "https://api.amazon.com/auth/o2/token",
+    "topicARNEventGatewayResolver": "arn:aws:sns:us-east-1:519425181610:rampiot-alexa-event-gateway-reporter"
+}
